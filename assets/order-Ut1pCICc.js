@@ -1,0 +1,1 @@
+import{n as e}from"./pinia-LL9Zd_AP.js";var t=e(`order`,{state:()=>({lastOrder:null}),actions:{saveOrder(e){this.lastOrder=e},clearOrder(){this.lastOrder=null}}});export{t};
